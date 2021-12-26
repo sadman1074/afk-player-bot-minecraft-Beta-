@@ -6,9 +6,9 @@
     },
 
     "server":{
-        "ip": "owarinet.ender-zone.com",
-        "port": 25951,
-        "version": "1.17.1"
+        "ip": "owariuk.mc-srv.com",
+        "port": 26232,
+        "version": "1.18.1"
     },
 
     "position":{
