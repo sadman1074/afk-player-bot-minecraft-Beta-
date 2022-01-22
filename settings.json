@@ -1,18 +1,18 @@
 {
     "bot-account":{ 
-        "username": "ChunkLoader",
+        "username": "Potato",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "owariuk.mc-srv.com",
+        "ip": "Us1211.aternos.me:11154",
         "port": 26232,
         "version": "1.18.1"
     },
 
     "position":{
-        "enabled": true,
+        "enabled": false,
         "x": 23,
         "y": 102,
         "z": 4171
@@ -35,10 +35,10 @@
             "repeat-delay": 360,
 
             "messages": [
-                "Hai Semuwa ", 
-                "SanZ Gay ", 
-                "Cookie Tolol", 
-                "Test "
+                "Partho gandu ", 
+                "Genjam kris nh ", 
+                "Heda", 
+                "shbai re  "
             ]
         },
 
